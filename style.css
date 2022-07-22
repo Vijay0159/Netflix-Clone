@@ -1,0 +1,12 @@
+*{    
+    background-color: black;
+    user-select: none;
+}
+#navbar{
+    background-color: black;
+}
+#umts{
+    font-weight: 700;
+    text-align: justify;
+    font-stretch: expanded;
+}
